@@ -1,12 +1,12 @@
 // Two Sum
-// input: nums = [2, 8, 3, 9, 7]
+// input: numbers = [2, 8, 3, 9, 7]
 // target: 11
 // output = [0,4]
 
 // pseudo code:
-// for i = 0; i < nums.length; i++
-// for j = 0; j < nums.length; j++
-// answer = nums[i] + nums[j]
+// for i = 0; i < numbers.length; i++
+// for j = 0; j < numbers.length; j++
+// answer = numbers[i] + numbers[j]
 // if answer == target
 // return [i, j]
 
